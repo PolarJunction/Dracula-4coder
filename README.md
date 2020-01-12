@@ -18,7 +18,7 @@ Lines 18/19.
 
 Where we set: 
 
-    static FColor FUNCTION_HIGHLIGHT_COLOR = fcolor_argb(0xFF50fa7b);
-    static FColor STRUCT_HIGHLIGHT_COLOR = fcolor_argb(0xFF8be9fd);
+    static u32 FUNCTION_HIGHLIGHT_COLOR = 0xFF50fa7b;
+    static u32 MACRO_HIGHLIGHT_COLOR = 0xFF8be9fd;
 
 Do a re-build and you should be ready to go.
