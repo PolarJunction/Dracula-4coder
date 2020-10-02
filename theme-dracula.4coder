@@ -2,7 +2,6 @@
 // Inspired by: Dracula Project - https://github.com/dracula/dracula-theme
 
 // True Dracula Experience requires function highlighting with 0xFF50fa7b - this must be applied in the customisation layer
-// Check out https://github.com/Skytrias/4files for a complete example
 // Where you can edit render_highlight.cpp - lns 18 - 21
 
 defcolor_back = 0xFF282a36;
